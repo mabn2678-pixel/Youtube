@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">نيوبلاير</string>
+    <string name="app_tagline">مشغل فيديو خفيف بدون إعلانات</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_subscriptions">الاشتراكات</string>
+    <string name="nav_library">المكتبة</string>
+
+    <!-- Search -->
+    <string name="search_hint">ابحث عن فيديوهات أو قنوات...</string>
+    <string name="search_history">عمليات البحث الأخيرة</string>
+    <string name="clear_search">مسح</string>
+    <string name="trending">الرائجة الآن</string>
+    <string name="category_all">الكل</string>
+    <string name="category_music">موسيقى</string>
+    <string name="category_tech">تقنية</string>
+    <string name="category_gaming">ألعاب</string>
+    <string name="category_education">تعليم</string>
+    <string name="category_news">أخبار</string>
+
+    <!-- Player -->
+    <string name="quality">الجودة</string>
+    <string name="playback_speed">سرعة التشغيل</string>
+    <string name="subtitles">الترجمة</string>
+    <string name="subtitles_off">إيقاف الترجمة</string>
+    <string name="background_play">تشغيل بالخلفية</string>
+    <string name="pip_mode">نافذة عائمة</string>
+    <string name="download">تحميل</string>
+    <string name="subscribe">اشتراك</string>
+    <string name="subscribed">مشترك</string>
+    <string name="subscribers">مشترك</string>
+    <string name="views">مشاهدة</string>
+    <string name="comments">التعليقات</string>
+    <string name="related_videos">مقاطع مقترحة</string>
+    <string name="share">مشاركة</string>
+    <string name="save_to_playlist">إضافة إلى قائمة</string>
+
+    <!-- Downloads -->
+    <string name="downloads">التنزيلات</string>
+    <string name="download_video">تحميل فيديو</string>
+    <string name="download_audio">تحميل صوت (MP3/M4A)</string>
+    <string name="downloading">جارٍ التحميل</string>
+    <string name="completed">مكتمل</string>
+    <string name="failed">تعذر التحميل</string>
+    <string name="no_downloads">لا توجد وسائط محملة</string>
+    <string name="delete_download">حذف الملف</string>
+
+    <!-- Library -->
+    <string name="history">سجل المشاهدة</string>
+    <string name="clear_history">مسح السجل</string>
+    <string name="playlists">قوائم التشغيل</string>
+    <string name="create_playlist">قائمة جديدة</string>
+    <string name="playlist_name">عنوان قائمة التشغيل</string>
+    <string name="no_history">سجل المشاهدة فارغ</string>
+    <string name="no_playlists">لا توجد قوائم تشغيل بعد</string>
+    <string name="no_subscriptions">لم تشترك في أي قناة حتى الآن</string>
+
+    <!-- Errors & Notification -->
+    <string name="error_loading">حدث خطأ أثناء تحميل البيانات</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="offline_notice">أنت غير متصل بالإنترنت</string>
+    <string name="no_internet">تعذر الاتصال بالإنترنت، يتم عرض التنزيلات المحلية</string>
+    <string name="channel_media_playback">تشغيل الصوت في الخلفية</string>
+    <string name="channel_downloads">إشعارات التنزيل</string>
+</resources>

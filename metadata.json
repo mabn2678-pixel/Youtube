@@ -1,0 +1,6 @@
+{
+  "name": "نيوبلاير",
+  "description": "مشغل فيديو خفيف وسريع على غرار NewPipe يدعم التشغيل بالخلفية والنافذة العائمة والتحميل والاشتراكات المحلية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
